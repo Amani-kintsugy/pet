@@ -1,0 +1,1 @@
+#app is a package , __init__.py is a dummy file that gives a normal folder the functionnality of a package in python 
